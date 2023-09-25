@@ -1,7 +1,7 @@
 {
-  "name": "parastats",
+  "name": "parachangelog",
   "version": "1.0.0",
-  "description": "Statistics frontend for ParadiseSS13 API",
+  "description": "Changelog frontend for ParadiseSS13",
   "main": "src/js/index.js",
   "scripts": {
     "build": "webpack",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AffectedArc07/ParaStats.git"
+    "url": "git+https://github.com/AffectedArc07/ParaChangelog.git"
   },
   "author": "AffectedArc07",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/AffectedArc07/ParaStats/issues"
+    "url": "https://github.com/AffectedArc07/ParaChangelog/issues"
   },
-  "homepage": "https://github.com/AffectedArc07/ParaStats#readme",
+  "homepage": "https://github.com/AffectedArc07/ParaChangelog#readme",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
     "@fortawesome/free-solid-svg-icons": "^6.1.1",

@@ -1,6 +1,6 @@
-# Paradise Statistics Frontend
+# Paradise Changelog Frontend
 
-React webapp for visualising round statistics from the Paradise Public API (<https://api.paradisestation.org/>).
+React webapp for visualising page changelogs from ParadiseSS13.
 
 ## Building
 
